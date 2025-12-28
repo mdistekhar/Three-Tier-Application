@@ -6,7 +6,8 @@ The challenge involves deploying a Three-Tier Web Application using ReactJS, Nod
 
 **Get The Challenge here**
 
-![Uploading Gemini_Generated_Image_lvi6wylvi6wylvi6.png…]()
+![Architecture Diagram](Images.png)
+
 
 
 
