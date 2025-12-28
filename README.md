@@ -9,6 +9,7 @@ The challenge involves deploying a Three-Tier Web Application using ReactJS, Nod
 ![Uploading Gemini_Generated_Image_lvi6wylvi6wylvi6.png…]()
 
 
+
 ## Prerequisites
 - Basic knowledge of Docker, and AWS services.
 - An AWS account with necessary permissions.
